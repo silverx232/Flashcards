@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/view_cards_add"
+        android:title="@string/add" />
+    <item
+        android:id="@+id/view_cards_delete"
+        android:title="@string/delete" />
+    <item
+        android:id="@+id/view_cards_search"
+        android:title="@string/search_flashcards" />
+    <item
+        android:id="@+id/view_cards_decks"
+        android:title="@string/view_decks" />
+    <item
+        android:id="@+id/view_cards_review"
+        android:title="@string/review" />
+</menu>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/card_info_add"
+        android:title="@string/add" />
+    <item
+        android:id="@+id/card_info_delete"
+        android:title="@string/delete" />
+    <item
+        android:id="@+id/card_info_search"
+        android:title="@string/search_flashcards" />
+    <item
+        android:id="@+id/card_info_view_decks"
+        android:title="@string/view_decks" />
+</menu>

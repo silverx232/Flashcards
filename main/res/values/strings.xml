@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Flashcards</string>
+    <string name="deck_size">"Deck Size: "</string>
+    <string name="front">"Front: "</string>
+    <string name="back">"Back: "</string>
+    <string name="review">Review</string>
+    <string name="flashcards">Flashcards</string>
+    <string name="delete">Delete</string>
+    <string name="delete_fab_description">Delete selected flashcards.</string>
+    <string name="delete_flashcard">"Are you sure you want to delete the flashcard?"</string>
+    <string name="delete_multiple_flashcards">"Are you sure you want to delete the flashcards?"</string>
+    <string name="percent_right">"Percent Right: "</string>
+    <string name="status">"Status: "</string>
+    <string name="deck">"Deck: "</string>
+    <string name="edit">Edit</string>
+    <string name="save">Save</string>
+    <string name="front_required">Information for the front of the card is required.</string>
+    <string name="back_required">Information for the back of the card is required.</string>
+    <string name="deck_required">Please select a deck.</string>
+    <string name="flashcard_information">Flashcard Information</string>
+    <string name="deck_information">Deck Information</string>
+    <string name="title">"Title: "</string>
+    <string name="title_required">Please enter a deck title.</string>
+    <string name="add">Add</string>
+    <string name="search_flashcards">Search Flashcards</string>
+    <string name="view_decks">View Decks</string>
+    <string name="delete_deck">Deleting a deck will delete all flashcards inside it. Are you sure
+        you want to delete the deck?</string>
+    <string name="search">search</string>
+    <string name="last_reviewed">"Last Reviewed: "</string>
+    <string name="four_flashcards_required">At least 4 flashcards are required in a deck in order to review it.
+        Please add more flashcards.</string>
+    <string name="continue_button">continue</string>
+    <string name="flashcards_reviewed">Flashcards Reviewed</string>
+    <string name="welcome">Welcome \nto \nFlashcards</string>
+</resources>
